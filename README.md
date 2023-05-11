@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JBaczkowski
+- 👋 Hi, I’m @JakubBaczkowski 
 - 👀 I am interested in programming, sports, mainly programming, good movies and series.
 - 🌱 I am currently studying computer sience
 - 💞️ I’m looking to collaborate on never mind
